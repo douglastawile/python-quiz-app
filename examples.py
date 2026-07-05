@@ -10,11 +10,16 @@
 #     print(value)
 
 
-quiz = [
-    {
-        "question": "What is 2 + 2",
-        "answer": "4",
-        "score": 5,
-        "time": "10 mins"
-    },
-]
+# quiz = [
+#     {
+#         "question": "What is 2 + 2",
+#         "answer": "4",
+#         "score": 5,
+#         "time": "10 mins"
+#     },
+# ]
+
+# menu = ["Start Game", "Load Game", "Settings", "Exit"]
+
+# for position, option in enumerate(menu, start=1):
+#     print(f"{position}. {option}")
